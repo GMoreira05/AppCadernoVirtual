@@ -1,4 +1,6 @@
 ﻿using AppCadernoVirtual.Primeiro;
+using AppCadernoVirtual.Segundo;
+using AppCadernoVirtual.Terceiro;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,9 +18,19 @@ namespace AppCadernoVirtual
             InitializeComponent();
         }
 
-        private void btn_portugues_Clicked(object sender, EventArgs e)
+        private void BtnPrimeiro_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new PortuguesPrimeiro());
+            Navigation.PushAsync(new InicialPrimeiro());
+        }
+
+        private void BtnSegundo_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new InicialSegundo());
+        }
+
+        private void BtnTerceiro_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new InicialTerceiro());
         }
     }
 }

@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AppCadernoVirtual.MainPage">
+             x:Class="AppCadernoVirtual.MainPage"
+             Title="Índice de Matérias do E.M." >
 
     <StackLayout>
-        <Button Text="Português" x:Name="btn_portugues" Clicked="btn_portugues_Clicked" />
+        <Button Text="Primeiro Ano" x:Name="BtnPrimeiro" Clicked="BtnPrimeiro_Clicked" />
+        <Button Text="Segundo Ano" x:Name="BtnSegundo" Clicked="BtnSegundo_Clicked" />
+        <Button Text="Terceiro Ano" x:Name="BtnTerceiro" Clicked="BtnTerceiro_Clicked" />
     </StackLayout>
 
 </ContentPage>

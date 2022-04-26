@@ -8,6 +8,17 @@
             <Label Text="Lista de Matérias do 3º E.M."
                 VerticalOptions="Start" 
                 HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="Português" x:Name="BtnPortugues" Clicked="BtnPortugues_Clicked" />
+            <Button Text="Inglês" x:Name="BtnIngles" Clicked="BtnIngles_Clicked" />
+            <Button Text="Geografia" x:Name="BtnGeografia" Clicked="BtnGeografia_Clicked" />
+            <Button Text="História" x:Name="BtnHistoria" Clicked="BtnHistoria_Clicked" />
+            <Button Text="Física" x:Name="BtnFisica" Clicked="BtnFisica_Clicked" />
+            <Button Text="Química" x:Name="BtnQuimica" Clicked="BtnQuimica_Clicked" />
+            <Button Text="Biologia" x:Name="BtnBiologia" Clicked="BtnBiologia_Clicked" />
+            <Button Text="Filosofia" x:Name="BtnFilosofia" Clicked="BtnFilosofia_Clicked" />
+            <Button Text="Educação Física" x:Name="BtnEducacaoFisica" Clicked="BtnEducacaoFisica_Clicked" />
+            <Button Text="Sociologia" x:Name="BtnSociologia" Clicked="BtnSociologia_Clicked" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

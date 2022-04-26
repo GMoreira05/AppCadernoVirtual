@@ -66,5 +66,30 @@ namespace AppCadernoVirtual.Terceiro
         {
 
         }
+
+        private void BtnProgWeb_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnProgMobile_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnInternet_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnTCC_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnQualidade_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

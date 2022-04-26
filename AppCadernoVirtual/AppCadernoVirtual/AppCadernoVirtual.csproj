@@ -25,6 +25,24 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="Segundo\HistoriaSegundo.xaml.cs">
+      <DependentUpon>HistoriaSegundo.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Segundo\GeografiaSegundo.xaml.cs">
+      <DependentUpon>GeografiaSegundo.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Segundo\SociologiaSegundo.xaml.cs">
+      <DependentUpon>SociologiaSegundo.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Segundo\InglesSegundo.xaml.cs">
+      <DependentUpon>InglesSegundo.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Segundo\EducacaoFisicaSegundo.xaml.cs">
+      <DependentUpon>EducacaoFisicaSegundo.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="Primeiro\GeografiaPrimeiro.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

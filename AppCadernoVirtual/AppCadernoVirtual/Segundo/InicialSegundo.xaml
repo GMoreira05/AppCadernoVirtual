@@ -19,6 +19,15 @@
             <Button Text="Filosofia" x:Name="BtnFilosofia" Clicked="BtnFilosofia_Clicked" />
             <Button Text="Educação Física" x:Name="BtnEducacaoFisica" Clicked="BtnEducacaoFisica_Clicked" />
             <Button Text="Sociologia" x:Name="BtnSociologia" Clicked="BtnSociologia_Clicked" />
+            <Button Text="Ética" x:Name="BtnEtica" Clicked="BtnEtica_Clicked" />
+
+            <Button Text="Programação WEB II" x:Name="BtnProgWeb" Clicked="BtnProgWeb_Clicked" />
+            <Button Text="Banco de Dados II" x:Name="BtnBancoDados" Clicked="BtnBancoDados_Clicked" />
+            <Button Text="Programação de Aplicativos Mobile I" x:Name="BtnProgMobile" Clicked="BtnProgMobile_Clicked" />
+            <Button Text="Desenvolvimento de Sistemas" x:Name="BtnDesenvolvimento" Clicked="BtnDesenvolvimento_Clicked" />
+            <Button Text="Planejamento de Trabalho de Conclusão de Curso" x:Name="BtnTCC" Clicked="BtnTCC_Clicked" />
+            <Button Text="Qualidade e Teste de Software" x:Name="BtnQualidade" Clicked="BtnQualidade_Clicked" />
+            <Button Text="Sistemas Embarcados" x:Name="BtnSistemasEmbarcados" Clicked="BtnSistemasEmbarcados_Clicked" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -34,7 +34,7 @@ namespace AppCadernoVirtual.Primeiro
 
         private void BtnHistoria_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new HistoriaPrimeiro());
         }
 
         private void BtnFisica_Clicked(object sender, EventArgs e)

@@ -10,9 +10,7 @@ namespace AppCadernoVirtual
         {
             InitializeComponent();
 
-            //MainPage = new MainPage();
-
-            //Para ter navegação de telas
+            //Para ter navegação de telas, a MainPage se torna uma tela de navegação.
             MainPage = new NavigationPage(new MainPage());
         }
 

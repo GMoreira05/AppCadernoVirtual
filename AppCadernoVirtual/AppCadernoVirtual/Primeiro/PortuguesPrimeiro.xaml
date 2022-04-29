@@ -4,11 +4,22 @@
              x:Class="AppCadernoVirtual.Primeiro.PortuguesPrimeiro"
              Title="1º E.M. - Português">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="1º E.M. - Português"
+        <StackLayout Padding="15">
+            <!-- FontSize: tamanho da fonte -->
+            <Label Text="Tópicos:"
                 VerticalOptions="Start" 
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
+
+            <Label Text="Comunicação Verbal e não Verbal" />
+            <Label Text="Fonética" />
+            <Label Text="Literatura: Trovadorismo" />
+            <Label Text="Gramática: Ortografia I - Uso dos porquês" />
+            <Label Text="Acentuação gráfica" />
+            <Label Text="Literatura: Barroco" />
+            <Label Text="Figuras de linguagem" />
+            <Label Text="Arcadismo" />
+            <Label Text="Prosa Romântica" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

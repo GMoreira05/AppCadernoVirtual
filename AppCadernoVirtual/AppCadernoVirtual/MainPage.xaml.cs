@@ -18,8 +18,10 @@ namespace AppCadernoVirtual
             InitializeComponent();
         }
 
+        // Void é uma função
         private void BtnPrimeiro_Clicked(object sender, EventArgs e)
         {
+            // Quando a função acontecer (quando clicar no botão), vai enviar a tela "InicialPrimeiro" para a navegação
             Navigation.PushAsync(new InicialPrimeiro());
         }
 

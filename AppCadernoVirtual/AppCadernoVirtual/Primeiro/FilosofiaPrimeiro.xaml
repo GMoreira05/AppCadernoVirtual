@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.FilosofiaPrimeiro"
+             Title="1º E.M. - Filosofia">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label Text="Tópicos:"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="Definição de filosofia" />
+            <Label Text="Os primeiros filósofos" />
+            <Label Text="Ser humano e a condição humana" />
+            <Label Text="Metafísica" />
+            <Label Text="Efeitos da Tecnologia" />
+            <Label Text="Estética" />
+            <Label Text="Cultura: Visão filosófica" />
+            <Label Text="Ètica no dia a dia" />
+            <Label Text="Concepções de liberdade" />
+            <Label Text="Direitos humanos" />
+            <Label Text="Felicidade" />
+            <Label Text="Teoria do individuo" />
+            <Label Text="Cultura e natureza" />
+            <Label Text="Foucalt e sua teoria sobre o poder" />
+            <Label Text="Escola de Frankfurt" />
+            <Label Text="Sociedade de consumo" />
+            <Label Text="Consumo segundo Bauman" />
+            <Label Text="Bioética" />
+            <Label Text="AS TRES PENEIRAS DE SÓCRATES" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

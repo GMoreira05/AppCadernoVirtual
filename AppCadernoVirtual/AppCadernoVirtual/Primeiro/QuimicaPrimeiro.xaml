@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.QuimicaPrimeiro"
+             Title="1º E.M. - Química">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label Text="Tópicos"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="Propriedades Gerais da Matéria" />
+            <Label Text="Substâncias e misturas" />
+            <Label Text="Constituição e transformações: Reações Químicas" />
+            <Label Text="Reações Químicas, Lei Ponderais: Lei de Lavoisier e Lei de Proust" />
+            <Label Text="Constituição e transformações - Modelos atômicos e Balanceamento de equações químicas" />
+            <Label Text="Constituição e transformações - Modelos atômicos e Características do átomo e estrutura do átomo" />
+            <Label Text="Constituição e organização - Ligações Químicas" />
+            <Label Text="Ligações Químicas e Geometria Molecular" />
+            <Label Text="Comportamento Químico - Forças Intemoleculares" />
+            <Label Text="Comportamento Químico - Ligações Químicas e Polaridade das moléculas" />
+            <Label Text="Acidez e basicidade" />
+            <Label Text="Sais e óxidos - Reações de neutralização" />
+            <Label Text="Chuva ácida" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

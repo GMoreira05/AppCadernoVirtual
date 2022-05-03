@@ -28,6 +28,7 @@
             <Button Text="Filosofia" x:Name="BtnFilosofia" Clicked="BtnFilosofia_Clicked" />
             <Button Text="Educação Física" x:Name="BtnEducacaoFisica" Clicked="BtnEducacaoFisica_Clicked" />
             <Button Text="Artes" x:Name="BtnArtes" Clicked="BtnArtes_Clicked" />
+            <Button Text="Matemática" x:Name="BtnMatematica" Clicked="BtnMatematica_Clicked" />
 
             <Button Text="Programação WEB I" x:Name="BtnProgramacaoWeb" Clicked="BtnProgramacaoWeb_Clicked" />
             <Button Text="Análise e Projeto de Sistemas" x:Name="BtnAnalise" Clicked="BtnAnalise_Clicked" />

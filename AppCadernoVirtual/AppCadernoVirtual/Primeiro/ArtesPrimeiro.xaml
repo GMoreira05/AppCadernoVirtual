@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.ArtesPrimeiro"
+             Title="1º E.M. - Artes">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label Text="Tópicos:"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="O que é arte" />
+            <Label Text="Arte Rupestre" />
+            <Label Text="Arte mesopotâmia e arte egípcia" />
+            <Label Text="Lei da Frontalidade" />
+            <Label Text="Arte Grega" />
+            <Label Text="Arte Romana" />
+            <Label Text="Arte Bizantina" />
+            <Label Text="Arte Islâmica" />
+            <Label Text="Renascimento" />
+            <Label Text="Perspectiva" />
+            <Label Text="Arte Barroca" />
+            <Label Text="Maneirismo " />
+            <Label Text="Rococó " />
+            <Label Text="Neoclassicismo " />
+            <Label Text="Romantismo " />
+            <Label Text="Realismo " />
+            <Label Text="Expressionismo e Fauvismo" />
+            <Label Text="Cubismo" />
+            <Label Text="Abstracionismo" />
+            <Label Text="Futurismo" />
+            <Label Text="Surrealismo " />
+            <Label Text="Dadaismo" />
+            <Label Text="Art Nouveau Arquitetura e Design" />
+            <Label Text="Aspectos da Cultura e da Produção de bens artísticos/ culturais: Diferentes Concepções de Cultura: erudita, popular, de massa e espontânea; Conceito de patrimônio: artístico, histórico, cultural, material e imaterial; Multiculturalismo e alteridade; Formação cultural e artística brasileira: influências portuguesa, africana, indígena e imigrante." />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

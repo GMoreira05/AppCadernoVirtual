@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.DesignDigital"
+             Title="1º E.M. - Design Digital">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label Text="Tópicos:"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="Teoria das cores" />
+            <Label Text="Tipografia e composição" />
+            <Label Text="Ferramentas de edição e tratamento" />
+            <Label Text="Transformação de objeto" />
+            <Label Text="Timeline, máscara e mesclagem de camadas" />
+            <Label Text="Ferramentas de texto" />
+            <Label Text="Estilo e filtros de imagens" />
+            <Label Text="Manipulação de documentos" />
+            <Label Text="Recursos para a criação/manipulação de imagens para a construção de botões, banners, logomarca" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -39,62 +39,67 @@ namespace AppCadernoVirtual.Primeiro
 
         private void BtnFisica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new FisicaPrimeiro());
         }
 
         private void BtnQuimica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new QuimicaPrimeiro());
         }
 
         private void BtnBiologia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new BiologiaPrimeiro());
         }
 
         private void BtnFilosofia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new FilosofiaPrimeiro());
         }
 
         private void BtnEducacaoFisica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new EducacaoFisicaPrimeiro());
         }
 
         private void BtnArtes_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new ArtesPrimeiro());
         }
 
         private void BtnProgramacaoWeb_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new ProgramacaoWebPrimeiro());
         }
 
         private void BtnAnalise_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new AnalisePrimeiro());
         }
 
         private void BtnDesignDigital_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new DesignDigital());
         }
 
         private void BtnFundamentosInformatica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new FundamentosPrimeiro());
         }
 
         private void BtnAlgoritmos_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new AlgoritmosPrimeiro());
         }
 
         private void BtnBancoDeDados_Clicked(object sender, EventArgs e)
         {
+            Navigation.PushAsync(new BancoDadosPrimeiro());
+        }
 
+        private void BtnMatematica_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new MatematicaPrimeiro());
         }
     }
 }

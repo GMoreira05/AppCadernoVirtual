@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.MatematicaPrimeiro"
+             Title="1º E.M. - Matemática">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label Text="Tópicos:"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="Noções de Lógica" />
+            <Label Text="Conjuntos Numéricos" />
+            <Label Text="Variação de Grandeza" />
+            <Label Text="Funções Afim, quadrática e modular" />
+            <Label Text="Geometria Plana" />
+            <Label Text="Estatística" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCadernoVirtual.Primeiro.FisicaPrimeiro"
+             Title="1º E.M. - Física">
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+            <Label Text="Tópicos"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Title" />
+
+            <Label Text="Fenômenos Físicos X Fenômenos Químicos" />
+            <Label Text="Unidades de Medidas" />
+            <Label Text="Velocidade Escalar Média e Velocidade Escalar Instantânea" />
+            <Label Text="MRU" />
+            <Label Text="Gráficos de MU - Sxt" />
+            <Label Text="Gráficos do MU - vxt" />
+            <Label Text="MUV" />
+            <Label Text="Gráficos do MUV - Aceleração" />
+            <Label Text="Gráficos do MUV - Espaço" />
+            <Label Text="Gráficos do MUV - Espaço" />
+            <Label Text="Queda Livre e Lançamento Vertical" />
+            <Label Text="Vetores" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

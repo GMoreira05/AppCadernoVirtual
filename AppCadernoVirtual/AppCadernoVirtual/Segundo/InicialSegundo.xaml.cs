@@ -49,17 +49,17 @@ namespace AppCadernoVirtual.Segundo
 
         private void BtnFisica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new FisicaSegundo());
         }
 
         private void BtnQuimica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new QuimicaSegundo());
         }
 
         private void BtnBiologia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new BiologiaSegundo());
         }
 
         private void BtnFilosofia_Clicked(object sender, EventArgs e)
@@ -88,11 +88,6 @@ namespace AppCadernoVirtual.Segundo
         }
 
         private void BtnDesenvolvimento_Clicked(object sender, EventArgs e)
-        {
-
-        }
-
-        private void BtnTCC_Clicked(object sender, EventArgs e)
         {
 
         }

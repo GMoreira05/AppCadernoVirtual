@@ -10,11 +10,11 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="Modelos de qualidade (CMMI, MPS.BR). " />
+            <Label Text="Testes de Software" />
+            <Label Text="Processo de teste" />
+            <Label Text="Ferramenta de execução de teste" />
+            <Label Text="Desenvolvimento guiado por testes" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

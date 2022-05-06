@@ -10,11 +10,8 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="As relações de alteridade e de diversidade na compreensão dos fatores sociais, econômicos, políticos e culturais" />
+            <Label Text="A formação da consciência e os juízos de valor nos conflitos da atualidade" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

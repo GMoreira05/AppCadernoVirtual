@@ -10,11 +10,9 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="Corpo em movimento: trabalho e lazer" />
+            <Label Text="Cultura corporal e discurso" />
+            <Label Text="Práticas corporais e convivência: autonomia e engajamento" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

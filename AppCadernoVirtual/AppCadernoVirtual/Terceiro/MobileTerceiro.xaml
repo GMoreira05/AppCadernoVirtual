@@ -10,11 +10,15 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="Consumindo APIs e serviços Web" />
+            <Label Text="Localização e mapas" />
+            <Label Text="Sensores" />
+            <Label Text="Widgets" />
+            <Label Text="Notificações" />
+            <Label Text="Permissões" />
+            <Label Text="Integração com outros apps" />
+            <Label Text="Concorrência" />
+            <Label Text="Interação com dispositivos sem fio" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

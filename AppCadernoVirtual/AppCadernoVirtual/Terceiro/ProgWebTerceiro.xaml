@@ -10,11 +10,10 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="Integração de sistemas com serviços para a Web " />
+            <Label Text="Padrão de arquitetura de software Model-View-Controller (MVC) " />
+            <Label Text="Utilização de frameworks Model-View-Controller (MVC) para o desenvolvimento Web " />
+            <Label Text="Técnicas adicionais para o desenvolvimento Web " />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

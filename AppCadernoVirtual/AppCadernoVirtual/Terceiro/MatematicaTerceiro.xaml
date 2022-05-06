@@ -1,20 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AppCadernoVirtual.Terceiro.QuimicaTerceiro"
-             Title="3º E.M. - Química">
+             x:Class="AppCadernoVirtual.Terceiro.MatematicaTerceiro"
+             Title="3º E.M. - Matemática" >
     <ContentPage.Content>
-        <StackLayout Padding="15">
+        <StackLayout>
             <Label Text="Tópicos"
                 VerticalOptions="Start" 
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="Grupos funcionais" />
-            <Label Text="Isometria" />
-            <Label Text="Combustíveis Fósseis e seus impáctos" />
-            <Label Text="Fontes Alternativas" />
-            <Label Text="Polímeros e resinas sintéticas" />
+            <Label Text="Variação de Grandeza" />
+            <Label Text="Trigonometria" />
+            <Label Text="Geometria Analítica" />
+            <Label Text="Probabilidade" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

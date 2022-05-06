@@ -10,11 +10,10 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="Leitura e Escrita" />
+            <Label Text="Compreensão auditiva e oralidade" />
+            <Label Text="Contextos situacionais" />
+            <Label Text="Terminologias técnicas e científicas e vocabulários específicos da área de atuação técnica" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

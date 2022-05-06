@@ -5,12 +5,17 @@
              Title="3º E.M. - Português" >
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="3º E.M. - Português"
+            <Label Text="Tópicos"
                 VerticalOptions="Start" 
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-
+            <Label Text="Oralidade" />
+            <Label Text="Leitura e a análise textual " />
+            <Label Text="Tipologias textuais e seus aspectos estruturais e gramaticais " />
+            <Label Text="Movimentos literários e seus contextos históricos e sociais" />
+            <Label Text="Elaboração e apresentação de texto " />
+            <Label Text="Terminologias técnicas e científicas e vocabulários específicos da área de atuação técnica" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -10,11 +10,8 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="Influência da tecnologia e dos meios de comunicação na construção da Cultura " />
+            <Label Text="Transformações e evolução da concepção do trabalho sob a ótica da análise sociológica " />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

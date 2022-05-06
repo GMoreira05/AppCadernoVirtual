@@ -10,11 +10,8 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="As formas de participação política para a conquista e preservação do direito, em seus diferentes aspectos, nos processos históricos mais amplos; " />
+            <Label Text="A interpretação crítica da organização das instituições políticas e econômicas nas sociedades contemporâneas. " />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

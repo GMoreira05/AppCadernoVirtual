@@ -10,6 +10,7 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
+            <Label Text="Corpo em movimento: Saúde" />
             <Label Text="Cultura corporal e identidade" />
             <Label Text="Práticas corporais e convivência: relações éticas e democráticas" />
         </StackLayout>

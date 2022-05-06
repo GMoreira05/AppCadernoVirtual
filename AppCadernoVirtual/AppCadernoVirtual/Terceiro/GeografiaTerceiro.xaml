@@ -10,11 +10,8 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="As relações entre sociedade e natureza: as interações na organização dos espaços da cultura e dos espaços geográficos; " />
+            <Label Text="O panorama mundial contemporâneo e o papel exercido pelas potências hegemônicas; a construção de uma interpretação das paisagens num cenário local e/ou regional. " />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

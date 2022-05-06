@@ -10,8 +10,8 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
-            <Label Text="" />
+            <Label Text="Teorias modernas" />
+            <Label Text="Movimento" />
             <Label Text="" />
             <Label Text="" />
             <Label Text="" />

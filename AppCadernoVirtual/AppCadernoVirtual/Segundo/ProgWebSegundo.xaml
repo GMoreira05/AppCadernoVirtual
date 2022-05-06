@@ -5,12 +5,12 @@
              Title="2º E.M. - Programação WEB">
     <ContentPage.Content>
         <StackLayout Padding="15">
-            <Label Text="Tópicos:"
-                VerticalOptions="Start" 
-                HorizontalOptions="CenterAndExpand"
-                FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="Introdução a scripts lado servidor" />
+            <Label Text="Variáveis e tipos de dados" />
+            <Label Text="Comunicação entre navegador e aplicação" />
+            <Label Text="Persistência em banco de dados" />
+            <Label Text="Modularização e organização dos programas" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

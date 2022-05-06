@@ -101,5 +101,10 @@ namespace AppCadernoVirtual.Segundo
         {
             Navigation.PushAsync(new SistemasEmbarcadosSegundo());
         }
+
+        private void BtnMatematica_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new MatematicaSegundo());
+        }
     }
 }

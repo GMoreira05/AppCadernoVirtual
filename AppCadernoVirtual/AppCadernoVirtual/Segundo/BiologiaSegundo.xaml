@@ -10,7 +10,11 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="Organização celular" />
+            <Label Text="Funções vitais" />
+            <Label Text="Código genético" />
+            <Label Text="Sistemas fisiológicos" />
+            <Label Text="Sistemas reprodutivo" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

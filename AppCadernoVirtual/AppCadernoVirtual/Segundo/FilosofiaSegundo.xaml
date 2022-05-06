@@ -10,7 +10,8 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="As influências das reflexões filosóficas nas manifestações socioculturais" />
+            <Label Text="A formulação de argumentos no diálogo filosófico" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

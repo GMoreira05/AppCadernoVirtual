@@ -24,72 +24,72 @@ namespace AppCadernoVirtual.Terceiro
 
         private void BtnIngles_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new InglesTerceiro());
         }
 
         private void BtnGeografia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new GeografiaTerceiro());
         }
 
         private void BtnBiologia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new BiologiaTerceiro());
         }
 
         private void BtnQuimica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new QuimicaTerceiro());
         }
 
         private void BtnFilosofia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new FilosofiaTerceiro());
         }
 
         private void BtnSociologia_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new SociologiaTerceiro());
         }
 
         private void BtnHistoria_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new HistoriaTerceiro());
         }
 
         private void BtnFisica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new FisicaTerceiro());
         }
 
         private void BtnEducacaoFisica_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new EducacaoFisicaTerceiro());
         }
 
         private void BtnProgWeb_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new ProgWebTerceiro());
         }
 
         private void BtnProgMobile_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new MobileTerceiro());
         }
 
         private void BtnInternet_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new InternetTerceiro());
         }
 
         private void BtnTCC_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new TCCTerceiro());
         }
 
         private void BtnQualidade_Clicked(object sender, EventArgs e)
         {
-
+            Navigation.PushAsync(new QualidadeTerceiro());
         }
     }
 }

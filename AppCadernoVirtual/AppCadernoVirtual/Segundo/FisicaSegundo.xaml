@@ -10,7 +10,10 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="Eletricidade" />
+            <Label Text="Princípios e Leis" />
+            <Label Text="Energias Renováveis e não renováveis" />
+            <Label Text="Grandezas elétricas e suas propriedades" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

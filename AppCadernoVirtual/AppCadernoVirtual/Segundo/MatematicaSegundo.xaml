@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AppCadernoVirtual.Segundo.HistoriaSegundo"
+             x:Class="AppCadernoVirtual.Segundo.MatematicaSegundo"
              Title="2º E.M. - História" >
     <ContentPage.Content>
         <ScrollView>
@@ -11,8 +11,11 @@
                     HorizontalOptions="CenterAndExpand"
                     FontSize="Title" />
 
-                <Label Text="Os processos de formação das identidades e os elementos culturais que as constituem" />
-                <Label Text="O itinerário histórico das relações de poder e a organização dos processos identitários no espaço socioeconômico, cultural e político. " />
+                <Label Text="Variação de Grandeza" />
+                <Label Text="Sistemas lineares" />
+                <Label Text="Matriz" />
+                <Label Text="Geometria espacial" />
+                <Label Text="Contagem" />
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

@@ -5,10 +5,10 @@
              Title="2º E.M. - Sociologia" >
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="2º E.M. - Sociologia"
-                VerticalOptions="Start" 
-                HorizontalOptions="CenterAndExpand"
-                FontSize="Title" />
+
+            <Label Text="Interpretações das teorias sociológicas nas dimensões política, cultural e ética" />
+            <Label Text="Perspectivas discursivas à luz da análise sociológica" />
+            <Label Text="Formação ética da cidadania e da política em contexto de globalização" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -10,7 +10,10 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="Sistemas em solução aquosa" />
+            <Label Text="Termodinâmica de sistemas gasosos" />
+            <Label Text="Termoquímica e espontainedade de reações químicas" />
+            <Label Text="Propriedades coligativas" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

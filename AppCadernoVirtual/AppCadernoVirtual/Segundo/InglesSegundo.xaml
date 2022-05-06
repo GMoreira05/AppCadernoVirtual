@@ -5,10 +5,19 @@
              Title="2º E.M. - Inglês" >
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="2º E.M. - Inglês"
-                VerticalOptions="Start" 
-                HorizontalOptions="CenterAndExpand"
-                FontSize="Title" />
+            <Label Text="Estratégias de leitura e escrita desenvolvidas na série anterior" />
+            <Label Text="Identificação da oração principal e da ideia central do parágrafo" />
+            <Label Text="Identificação de ideias de causa e efeito observando-se os marcadores discursivos" />
+            <Label Text="Observação da função dos sinais de pontuação para identificar informações adicionais ao texto;  Reconhecimento de significados, a partir do contexto, de cognatos, de sinônimos, entre outros indicadores; " />
+            <Label Text="Observação da estrutura frasal e da necessidade de organizar os conhecimentos gramaticais a partir dos contextos apresentados" />
+            <Label Text="Introdução de estruturas de relatório. " />
+            <Label Text="Conhecimento prévio sobre o tema para favorecer o estabelecimento de hipóteses sobre o que será ouvido" />
+            <Label Text="Atenção às informações que se deseja extrair do texto" />
+            <Label Text="Identificação de características da linguagem falada para o exercício 'speaking'" />
+            <Label Text="" />
+            <Label Text="" />
+            <Label Text="" />
+            <Label Text="" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -9,6 +9,9 @@
                 VerticalOptions="Start" 
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
+
+            <Label Text="As fronteiras sociais, políticas e econômicas sob a ótica das organizações geográficas" />
+            <Label Text="A influência dos elementos geográficos no desenvolvimento técnico e tecnológico na sociedade do trabalho" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

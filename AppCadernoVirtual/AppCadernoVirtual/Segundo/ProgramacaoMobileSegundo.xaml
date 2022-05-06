@@ -10,7 +10,9 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="Conceitos de dispositivos móveis e mercado" />
+            <Label Text="Desenvolvimento de Layout de Aplicativo Mobile" />
+            <Label Text="Manipulação de banco de dados no dispositivo" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -5,12 +5,11 @@
              Title="2º E.M. - Desenvolvimento de Sistemas">
     <ContentPage.Content>
         <StackLayout Padding="15">
-            <Label Text="Tópicos:"
-                VerticalOptions="Start" 
-                HorizontalOptions="CenterAndExpand"
-                FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="Programação orientada a objetos" />
+            <Label Text="Padrão de projeto MVC (Model-View-Controller)" />
+            <Label Text="Construção de interface gráfica com o usuário (GUI)" />
+            <Label Text="Persistência em bancos de dados" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

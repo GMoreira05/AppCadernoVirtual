@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppCadernoVirtual.MainPage"
-             Title="Índice de Matérias do E.M." >
+             Title="Índice de Matérias do E.M." 
+             Padding="10">
              <!-- Title: texto que aparece no topo, na parte da navegação -->
     
     <!-- StackLayout: para fazer os elementos ficarem um encima do outro -->

@@ -5,12 +5,20 @@
              Title="2º E.M. - Banco de Dados">
     <ContentPage.Content>
         <StackLayout Padding="15">
-            <Label Text="Tópicos:"
-                VerticalOptions="Start" 
-                HorizontalOptions="CenterAndExpand"
-                FontSize="Title" />
 
-            <Label Text="" />
+            <Label Text="Implementação de banco de dados" />
+            <Label Text="Variáveis e constantes" />
+            <Label Text="Comandos SQL" />
+            <Label Text="Linguagem de definição de dados – DDL" />
+            <Label Text="Linguagem de manipulação de dados – DML" />
+            <Label Text="Linguagem de consulta de dados – DQL" />
+            <Label Text="Blocos de linguagem de consulta estruturada (SQL)" />
+            <Label Text="Exceções (tratamento de erros)" />
+            <Label Text="Funções" />
+            <Label Text="Gatilhos" />
+            <Label Text="Visões controladas" />
+            <Label Text="Índices" />
+            <Label Text="Merge e permissões" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

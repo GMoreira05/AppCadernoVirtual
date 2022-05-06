@@ -4,11 +4,20 @@
              x:Class="AppCadernoVirtual.Segundo.PortuguesSegundo"
              Title="2º E.M. - Português" >
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="2º E.M. - Português"
-                VerticalOptions="Start" 
-                HorizontalOptions="CenterAndExpand"
-                FontSize="Title" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="2º E.M. - Português"
+                    VerticalOptions="Start" 
+                    HorizontalOptions="CenterAndExpand"
+                    FontSize="Title" />
+
+                <Label Text="Oralidade" />
+                <Label Text="Leitura e análise textual" />
+                <Label Text="Tipologias textuais e seus aspectos estruturais gramáticos" />
+                <Label Text="Movimentos literários e seus contextos históricos e sociais" />
+                <Label Text="Elaboração e apresentação de texto" />
+                <Label Text="Terminologias técnicas e científicas e vocabulários específicos da área de atuação técnica" />
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

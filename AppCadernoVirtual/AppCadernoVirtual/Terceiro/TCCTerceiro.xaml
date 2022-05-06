@@ -10,7 +10,7 @@
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Title" />
 
-            <Label Text="A apresentação descrita deverá prezar pela organização, clareza e domínio na abordagem do tema. Cada habilitação profissional definirá, por meio de regulamento específico, dentre os "produtos" a seguir, qual corresponderá à apresentação escrita do TCC, a exemplo de: Monografia; Protótipo com Manual Técnico; " />
+            <Label Text="A apresentação descrita deverá prezar pela organização, clareza e domínio na abordagem do tema. Cada habilitação profissional definirá, por meio de regulamento específico, dentre os 'produtos' a seguir, qual corresponderá à apresentação escrita do TCC, a exemplo de: Monografia; Protótipo com Manual Técnico; " />
             <Label Text="Artigo Científico; Projeto de Pesquisa; Relatório Técnico. " />
             <Label Text="Técnicas de apresentação de trabalho" />
             <Label Text="" />

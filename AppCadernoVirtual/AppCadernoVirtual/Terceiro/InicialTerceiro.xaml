@@ -9,7 +9,8 @@
             <StackLayout>
                 <Label Text="Lista de Matérias do 3º E.M."
                     VerticalOptions="Start" 
-                    HorizontalOptions="CenterAndExpand" />
+                    HorizontalOptions="CenterAndExpand"
+                       FontSize="Header"/>
 
                 <Button Text="Português" x:Name="BtnPortugues" Clicked="BtnPortugues_Clicked" />
                 <Button Text="Inglês" x:Name="BtnIngles" Clicked="BtnIngles_Clicked" />

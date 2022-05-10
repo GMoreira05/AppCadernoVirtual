@@ -3,13 +3,30 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppCadernoVirtual.MainPage"
              Title="Índice de Matérias do E.M." 
-             Padding="10">
+             Padding="10"
+             >
              <!-- Title: texto que aparece no topo, na parte da navegação -->
+             <!-- Padding: "borda" que tem dos lados de todos os elementos -->
+             <!-- BackgroundColor: cor de fundo da ContentPage -->
     
     <!-- StackLayout: para fazer os elementos ficarem um encima do outro -->
     <StackLayout>
         <!-- Button: botao. Text: texto que aparece no botao. x:Name: nome para usar na programação. Clicked: método que é chamado quando clica nele -->
         <!-- O resto dos comentários está só na pagina inicial da tela das matérias do primeiro -->
+
+        <!--Label: um texto
+                - Text: texto que aparece na label
+                - VerticalOptions: onde vai ficar verticalmente. No caso, start (no COMEÇO da parte de cima (topo))
+                - HorizontalOptions: como fica horizontalmente. No caso, centralizado e expandido, fazendo o texto (não o escrito,
+                só a borda do elemento (não sei explicar mt bem, mas se colocasse uma borda, ela iria de um lado até o outro da tela.
+                se fosse só "center", a borda ficaria só envolta do escrito))
+                - FontSize: tamanho da fonte
+         -->
+        <Label Text="Índice de anos do E.M."
+               VerticalOptions="Start" 
+               HorizontalOptions="CenterAndExpand"
+               FontSize="Header" />
+
         <Button Text="Primeiro Ano" x:Name="BtnPrimeiro" Clicked="BtnPrimeiro_Clicked" />
         <Button Text="Segundo Ano" x:Name="BtnSegundo" Clicked="BtnSegundo_Clicked" />
         <Button Text="Terceiro Ano" x:Name="BtnTerceiro" Clicked="BtnTerceiro_Clicked" />

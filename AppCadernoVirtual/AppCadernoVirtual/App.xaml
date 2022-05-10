@@ -3,6 +3,29 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppCadernoVirtual.App">
     <Application.Resources>
+        <!-- Definindo estilos do app -->
+        <!-- Todo botão terá o estilo: cor de fundo vermelho e cor de texto branca -->
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor"
+                    Value="#bc0c19" />
+            <Setter Property="TextColor"
+                    Value="White" />
+        </Style>
 
+        <!-- Define estilo das content pages. nesse caso, 
+        deixa o fundo de todas nesse tom de cinza das etecs -->
+        <Style TargetType="ContentPage"
+               ApplyToDerivedTypes="True">
+            <!-- ApplyToDerivedTypes  faz que o estilo sirva para todas os elementos que são contentpage,
+            independente de classe ou algo do tipo -->
+            <Setter Property="BackgroundColor"
+                    Value="#3a5461" />
+        </Style>
+
+        <!-- Define o estilo de todas as label como TextColor (cor do texto) branca -->
+        <Style TargetType="Label">
+            <Setter Property="TextColor"
+                    Value="White" />
+        </Style>
     </Application.Resources>
 </Application>

@@ -8,18 +8,12 @@
         <!-- ScrollView: para permitir rolagem da página -->
         <ScrollView>        
             <StackLayout>
-            <!--Label: um texto
-                Text: texto que aparece na label
-                VerticalOptions: onde vai ficar verticalmente. No caso, start (no COMEÇO da parte de cima (topo))
-                HorizontalOptions: como fica horizontalmente. No caso, centralizado e expandido, fazendo o texto (não o escrito,
-                só a borda do elemento (não sei explicar mt bem, mas se colocasse uma borda, ela iria de um lado até o outro da tela.
-                se fosse só "center", a borda ficaria só envolta do escrito))
-            -->
             
             <!-- Os outros comentários estão na tela de Português só -->
             <Label Text="Lista de Matérias do 1º E.M."
-                VerticalOptions="Start" 
-                HorizontalOptions="CenterAndExpand" />
+                   VerticalOptions="Start" 
+                   HorizontalOptions="CenterAndExpand"
+                   FontSize="Header" />
 
             <Button Text="Português" x:Name="BtnPortugues" Clicked="BtnPortugues_Clicked" />
             <Button Text="Inglês" x:Name="BtnIngles" Clicked="BtnIngles_Clicked" />
